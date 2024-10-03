@@ -63,28 +63,28 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Ph.D. Candidate, Statistics
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+#  - area: Ph.D. Candidate, Statistics
+#    institution: Massachusetts Institute of Technology
+#    date_start: 2016-01-01
+#    date_end: 2020-12-31
+#    summary: |
+#      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: M.A., Statistics
-    institution: Boston University
-    date_start: 2019-09-01
-    date_end: 2021-01-25
-    summary: |
-      GPA: 3.96/4.0
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - area: M.A., Statistics
+#    institution: Boston University
+#    date_start: 2019-09-01
+#    date_end: 2021-01-25
+#    summary: |
+#      GPA: 3.96/4.0
       
-      Courses included: 
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      Courses included: 
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
