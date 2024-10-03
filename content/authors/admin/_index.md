@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 陈少宣
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shaoxuan
+last_name: Chen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧑‍💻️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,36 +20,38 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Massachusetts Amherst; Georgia Institute of Technology
+    url: https://www.umass.edu/mathematics-statistics/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:shaoxuanchen@umass.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Shaoxuan-Chen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/shaoxuanchen/
+  # - icon: academicons/google-scholar
+  #  url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #  url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Physics Machine Learning
+  - Diffusion Generative Modeling
+  - Meta Learning
+  - Scientific Computing
+  - Statistical Modeling
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +185,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. I am currently a fourth-year PhD student in Department of Mathematics & Statistics, University of Massachusetts Amherst and visiting Ph.D. student in School of Mathematics, Georgia Institute of Technology. I'm fortunate to be asvised by Prof. Wei Zhu and Prof. Panayotis Kevrekidis. My research interests are primarily focus on Physics Machine Learning, Meta Learning and Diffusion Models. and NLP, especially on Dense Retrieval and Generative Retrieval.
+Before PhD, I got my M.A. and M.S. degrees from Boston University and Columbia University respectively.
