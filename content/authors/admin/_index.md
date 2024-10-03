@@ -184,6 +184,5 @@ awards:
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. I am currently a fourth-year PhD student in Department of Mathematics & Statistics, University of Massachusetts Amherst and visiting Ph.D. student in School of Mathematics, Georgia Institute of Technology. I'm fortunate to be asvised by Prof. Wei Zhu and Prof. Panayotis Kevrekidis. My research interests are primarily focus on Physics Machine Learning, Meta Learning and Diffusion Models. and NLP, especially on Dense Retrieval and Generative Retrieval.
+I am currently a fourth-year PhD student in Department of Mathematics & Statistics, University of Massachusetts Amherst and visiting Ph.D. student in School of Mathematics, Georgia Institute of Technology. I'm fortunate to be asvised by Prof. Wei Zhu and Prof. Panayotis Kevrekidis. My research interests are primarily focus on Physics Machine Learning, Meta Learning and Diffusion Models. and NLP, especially on Dense Retrieval and Generative Retrieval.
 Before PhD, I got my M.A. and M.S. degrees from Boston University and Columbia University respectively.
