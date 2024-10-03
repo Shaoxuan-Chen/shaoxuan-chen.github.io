@@ -85,13 +85,6 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-   - area: M.S., Biostatistics
-    institution: Columbia University
-    date_start: 2017-09-01
-    date_end: 2019-06-07
-    summary: |
-      GPA: 3.96/4.0
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
