@@ -84,8 +84,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: M.A. Statistics
-    institution: Boston University
+  - area: M.S. Biostatistics
+    institution: Columbia University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
