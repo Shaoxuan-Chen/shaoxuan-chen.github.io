@@ -64,8 +64,8 @@ education:
       url: 'https://example.com'
   - area: Ph.D. Candidate, Statistics
     institution: University of Massachusetts Amherst
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-09-01
+    date_end: 2026-06-07
     summary: |
       GPA: 3.8/4.0
 
@@ -73,8 +73,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: M.A. Statistics
+    institution: Boston University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
