@@ -52,39 +52,38 @@ interests:
   - Meta Learning
   - Scientific Computing
   - Statistical Modeling
-
 education:
-  - area: Visiting Ph.D. Student, Computational and Applied Mathematics
+  - area: Visiting Ph.D. Student, Computaional and Applied Mathematics
     institution: Georgia Institute of Technology
-    date_start: 2024-09-01
-    date_end: 2026-6-07 Expected
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-#  - area: Ph.D. Candidate, Statistics
-#    institution: Massachusetts Institute of Technology
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
-#    summary: |
-#      GPA: 3.8/4.0
+  - area: Ph.D. Candidate, Statistics
+    institution: University of Massachusetts Amherst
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
 
-#      Courses included:
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - area: M.A., Statistics
-#    institution: Boston University
-#    date_start: 2019-09-01
-#    date_end: 2021-01-25
-#    summary: |
-#      GPA: 3.96/4.0
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
       
-#      Courses included: 
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
