@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -391,16 +384,23 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-will-join-fm-as-a-research-scientist-intern-this-summer",
+          title: 'I will join FM as a Research Scientist Intern this summer! !!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-new-paper-alert-rocket-excited-to-share-that-our-paper-identification-of-moment-equations-via-data-driven-approaches-in-nonlinear-schrodinger-models-has-been-accepeted-by-frontiers-in-photonics",
+          title: 'New Paper Alert :rocket: : Excited to share that our paper, Identification of...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-will-join-epsilon-publicis-groupe-as-a-research-data-scientist-intern-this-summer-sparkles-smile",
+          section: "News",},{id: "news-new-paper-alert-rocket-excited-to-share-that-our-paper-data-driven-discovery-of-conservation-laws-from-trajectories-via-neural-deflation-has-been-accepeted-by-cnsns",
+          title: 'New Paper Alert :rocket: : Excited to share that our paper, Data-Driven Discovery...',
+          description: "",
+          section: "News",},{id: "news-i-will-join-epsilon-publicis-groupe-as-a-research-data-scientist-intern-this-summer-sparkles-smile",
           title: 'I will join Epsilon, Publicis Groupe as a Research Data Scientist Intern this...',
+          description: "",
+          section: "News",},{id: "news-new-paper-alert-rocket-our-latest-work-robust-moment-identification-for-nonlinear-pdes-via-a-neural-ode-approach-is-now-on-arxiv",
+          title: 'New Paper Alert :rocket: : Our latest work Robust Moment Identification for Nonlinear...',
+          description: "",
+          section: "News",},{id: "news-trophy-excited-to-share-that-our-paper-a-machine-learning-based-approach-to-model-sprinkler-actual-delivered-density-received-the-best-paper-award-at-isfeh-2025",
+          title: ':trophy: Excited to share that our paper, A Machine Learning-Based Approach to Model...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
