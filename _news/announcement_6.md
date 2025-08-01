@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will join [FM](https://www.fm.com) as a Research Scientist Intern this summer! !!
+Excited to share that I’ll join [FM](https://www.fm.com) as a Research Scientist Intern this summer!

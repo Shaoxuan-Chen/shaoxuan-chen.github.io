@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. PhD Candidate in Statistics, UMass Amherst 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,4 +25,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a fourth-year PhD candidate in Department of Mathematics & Statistics, University of Massachusetts Amherst and visiting Ph.D. student in School of Mathematics, Georgia Institute of Technology. I'm fortunate to be asvised by Prof. [Wei Zhu](https://sites.google.com/view/weizhumath/home) and Prof. [Panayotis Kevrekidis](https://en.wikipedia.org/wiki/Panayotis_G._Kevrekidis). My research interests are primarily focus on physics machine mearning, neural networks and statistical modeling. Before PhD, I got my M.A. and M.S. degrees from Boston University and Columbia University respectively.
+I am currently a fourth-year Ph.D. candidate in Department of Mathematics & Statistics, University of Massachusetts Amherst and visiting Ph.D. student in School of Mathematics, Georgia Institute of Technology. I'm fortunate to be asvised by Prof. [Wei Zhu](https://sites.google.com/view/weizhumath/home) and Prof. [Panayotis Kevrekidis](https://en.wikipedia.org/wiki/Panayotis_G._Kevrekidis). My research interests are primarily focus on physics machine mearning, neural networks and statistical modeling. Before PhD, I got my M.A. and M.S. degrees from Boston University and Columbia University respectively.
+
