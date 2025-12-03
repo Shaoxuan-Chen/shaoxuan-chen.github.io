@@ -390,7 +390,7 @@ ninja.data = [{
           section: "News",},{id: "news-rocket-new-publication-excited-to-share-that-our-paper-identification-of-moment-equations-via-data-driven-approaches-in-nonlinear-schrodinger-models-has-been-accepeted-by-frontiers-in-photonics",
           title: ':rocket:New Publication : Excited to share that our paper, Identification of moment equations...',
           description: "",
-          section: "News",},{id: "news-rocket-new-publication-excited-to-share-that-our-paper-data-driven-discovery-of-conservation-laws-from-trajectories-via-neural-deflation-has-been-accepeted-by-cnsns",
+          section: "News",},{id: "news-rocket-new-publication-excited-to-share-that-our-paper-data-driven-discovery-of-conservation-laws-from-trajectories-via-neural-deflation-has-been-accepeted-by-communications-in-nonlinear-science-and-numerical-simulation",
           title: ':rocket:New Publication : Excited to share that our paper, Data-Driven Discovery of Conservation...',
           description: "",
           section: "News",},{id: "news-i-m-thrilled-to-join-epsilon-publicis-groupe-as-a-research-data-scientist-intern-this-summer",
