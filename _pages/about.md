@@ -25,5 +25,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a fourth-year Ph.D. candidate in Department of Mathematics & Statistics, University of Massachusetts Amherst and visiting Ph.D. student in School of Mathematics, Georgia Institute of Technology. I'm fortunate to be asvised by Prof. [Wei Zhu](https://sites.google.com/view/weizhumath/home) and Prof. [Panayotis Kevrekidis](https://en.wikipedia.org/wiki/Panayotis_G._Kevrekidis). My research interests are primarily focus on physics machine mearning, neural networks and statistical modeling. Before PhD, I got my M.A. and M.S. degrees from Boston University and Columbia University respectively.
+I am currently a fifth-year Ph.D. candidate in Department of Mathematics & Statistics, University of Massachusetts Amherst and visiting Ph.D. student in School of Mathematics, Georgia Institute of Technology. I'm fortunate to be asvised by Prof. [Wei Zhu](https://sites.google.com/view/weizhumath/home) and Prof. [Panayotis Kevrekidis](https://en.wikipedia.org/wiki/Panayotis_G._Kevrekidis). My research interests are primarily focus on physics machine mearning, neural networks and statistical modeling. Before PhD, I got my M.A. and M.S. degrees from Boston University and Columbia University respectively.
 
