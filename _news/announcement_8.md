@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to share that I’ll join [Capital One]([https://www.fm.com](https://www.capitalone.com/commercial/solutions/capital-markets/)), Global Finance as a Data Scientist Intern this summer!
+Excited to share that I’ll join [Capital One]([https://www.fm.com](https://www.capitalone.com/commercial/solutions/capital-markets/)), Global Finance as a Quantitive Data Science Intern this summer!
